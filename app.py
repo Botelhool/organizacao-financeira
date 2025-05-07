@@ -1,4 +1,4 @@
-#menu 
+
 import os
 def operacao (tipo,descricao, valor,transacoes): 
     transacao = {
